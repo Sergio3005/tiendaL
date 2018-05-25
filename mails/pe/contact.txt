@@ -1,0 +1,16 @@
+
+[{shop_url}] 
+
+Message from a {shop_name} customer 
+
+DIRECCIÓN DE CORREO ELECTRÓNICO DEL CLIENTE: {email}
+
+MENSAJE DEL CLIENTE: {message}
+
+ORDER ID: {order_name}
+
+ARCHIVO ADJUNTO: {attached_file} 		 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

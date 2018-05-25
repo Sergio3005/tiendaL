@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="controllers/admin/AdminAttributesGroupsController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      <trans-unit id="22cbf85c41427960736dc10cfec5faf4" approved="yes">
+        <source>Choose a color with the color picker, or enter an HTML color (e.g. "lightblue", "#CC6600").</source>
+        <target xml:lang="es-PE">Elija un color con el selector de colores o introduzca un color HTML (por ejemplo, "lightblue", "# CC6600").</target>
+        <note>Context:
+File: controllers/admin/AdminAttributesGroupsController.php:307</note>
+      </trans-unit>
+      <trans-unit id="ba353198430b2004efeb1ac6d1f410d0" approved="yes">
+        <source>This will override the HTML color!</source>
+        <target xml:lang="es-PE">¡Esto sobrescribirá el color HTML!</target>
+        <note>Context:
+File: controllers/admin/AdminAttributesGroupsController.php:316</note>
+      </trans-unit>
+      <trans-unit id="7d5672f569de406c85249db6f1c99ec0" approved="yes">
+        <source>Save then add another value</source>
+        <target xml:lang="es-PE">Guardar y agregar otro valor</target>
+        <note>Context:
+File: controllers/admin/AdminAttributesGroupsController.php:551</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="controllers/admin/AdminFeaturesController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="controllers/admin/AdminCmsCategoriesController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="controllers/admin/AdminCategoriesController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="src/PrestaShopBundle/Resources/views/Admin/Product/form.html.twig" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      <trans-unit id="94e4259ad6f05c74b84eb6cca4d60ce6" approved="yes">
+        <source>See how your product sheet will look online: ALT+SHIFT+V</source>
+        <target xml:lang="es-PE">Visualizar cómo se verá en línea tu hoja de producto: ALT+SHIFT+V</target>
+        <note>Context:
+File: src/PrestaShopBundle/Resources/views/Admin/Product/form.html.twig:1085</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="controllers/admin/AdminSuppliersController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="controllers/admin/AdminCustomerThreadsController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="controllers/admin/AdminManufacturersController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+      
+    </body>
+  </file>
+  <file original="src/PrestaShopBundle/Controller/Admin/ProductController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="src/PrestaShopBundle/Form/Admin/Product/ProductQuantity.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      <trans-unit id="16a5534d559007de7e8f5b4f17112203" approved="yes">
+        <source>Leave empty to disable</source>
+        <target xml:lang="es-PE">Dejar en blanco para desactivar</target>
+        <note>Context:
+File: src/PrestaShopBundle/Form/Admin/Product/ProductQuantity.php:168</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="src/PrestaShopBundle/Form/Admin/Product/ProductOptions.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      <trans-unit id="8246ddfaa2c607ace3ae3a4643d957d1" approved="yes">
+        <source>Use a comma to create separate tags. E.g.: dress, cotton, party dresses.</source>
+        <target xml:lang="es-PE">Utiliza comas para separar las etiquetas. Ej.: vestido, algodón, vestidos de fiesta.</target>
+        <note>Context:
+File: src/PrestaShopBundle/Form/Admin/Product/ProductOptions.php:110</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="src/PrestaShopBundle/Form/Admin/Product/ProductInformation.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="src/PrestaShopBundle/Form/Admin/Product/ProductSeo.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="src/PrestaShopBundle/Form/Admin/Product/ProductPrice.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="src/PrestaShopBundle/Resources/views/Admin/Security/compromised.html.twig" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="src/PrestaShopBundle/Resources/views/Admin/Product/Include/form_combination.html.twig" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      <trans-unit id="1914ce33841a6e52c0577751d9004159" approved="yes">
+        <source><![CDATA[The email will be sent to all the users who have the right to run the stock page. To modify the permissions, go to [1]Advanced Parameters > Team[/1]]]></source>
+        <target xml:lang="es-PE"><![CDATA[El mensaje de correo electrónico se enviará a todos los usuarios que tienen permisos para trabajar con la página de stock. Para modificar los permisos, dirígete a [1]Parámetros avanzados > Equipo[/1]]]></target>
+        <note>Context:
+File: src/PrestaShopBundle/Resources/views/Admin/Product/Include/form_combination.html.twig:120</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="src/PrestaShopBundle/Resources/views/Admin/Product/catalog.html.twig" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+      
+    </body>
+  </file>
+  <file original="src/PrestaShopBundle/Resources/views/Admin/Product/Include/form_shipping.html.twig" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      <trans-unit id="305c255586949e297af4d74bb1bc9563" approved="yes">
+        <source>Display delivery time for a product is advised for merchants selling in Europe to comply with the local laws.</source>
+        <target xml:lang="es-PE">Se recomienda mostrar el plazo de entrega de un producto a los comerciantes que vendan en Europa para cumplir con las leyes locales.</target>
+        <note>Context:
+File: src/PrestaShopBundle/Resources/views/Admin/Product/Include/form_shipping.html.twig:78</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="src/PrestaShopBundle/Resources/views/Admin/Product/Include/form-categories.html.twig" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+      
+    </body>
+  </file>
+  <file original="src/PrestaShopBundle/Resources/views/Admin/Product/Include/form_combinations.html.twig" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+    </body>
+  </file>
+  <file original="src/PrestaShopBundle/Resources/views/Admin/Product/Include/form-warehouse-combination.html.twig" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+    </body>
+  </file>
+  <file original="src/PrestaShopBundle/Resources/views/Admin/Product/Include/form-supplier-choice.html.twig" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+      
+    </body>
+  </file>
+  <file original="src/PrestaShopBundle/Resources/views/Admin/Product/Include/form-supplier-combination.html.twig" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="src/PrestaShopBundle/Resources/views/Admin/Product/Include/form_seo.html.twig" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="admin-dev/themes/default/template/controllers/categories/helpers/form/form.tpl" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="admin-dev/themes/default/template/controllers/tracking/helpers/list/list_header.tpl" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="admin-dev/themes/default/template/controllers/cart_rules/informations.tpl" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="admin-dev/themes/default/template/controllers/cart_rules/conditions.tpl" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="admin-dev/themes/default/template/controllers/cart_rules/actions.tpl" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+</xliff>

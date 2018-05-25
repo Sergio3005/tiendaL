@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="controllers/admin/AdminLocalizationController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      <trans-unit id="9da30b4a4eab6c20f3ba7ddc89c18d6d" approved="yes">
+        <source>The default weight unit for your shop (e.g. "kg" for kilograms, "lbs" for pound-mass, etc.).</source>
+        <target xml:lang="es-PE">La unidad de peso predeterminada para tu tienda (ej.: "kg" para kilogramos, "libras" para libra-masa, etc.).</target>
+        <note>Context:
+File: controllers/admin/AdminLocalizationController.php:89</note>
+      </trans-unit>
+      <trans-unit id="f7f469cfef2bd3d4d0a12cc7875df046" approved="yes">
+        <source>The default distance unit for your shop (e.g. "km" for kilometer, "mi" for mile, etc.).</source>
+        <target xml:lang="es-PE">La unidad de distancia predeterminada para tu tienda (ej.: "km" para kilómetro, "mi" para milla, etc.).</target>
+        <note>Context:
+File: controllers/admin/AdminLocalizationController.php:97</note>
+      </trans-unit>
+      <trans-unit id="dd82d34d95398e0fe58f9b2edfc933fa" approved="yes">
+        <source>The default volume unit for your shop (e.g. "L" for liter, "gal" for gallon, etc.).</source>
+        <target xml:lang="es-PE">La unidad de volumen predeterminada para tu tienda (ej.: "L" para litro, "gal" para galón, etc.).</target>
+        <note>Context:
+File: controllers/admin/AdminLocalizationController.php:105</note>
+      </trans-unit>
+      <trans-unit id="2bec6d5b97c142617d81b6abfd8611a1" approved="yes">
+        <source>The default dimension unit for your shop (e.g. "cm" for centimeter, "in" for inch, etc.).</source>
+        <target xml:lang="es-PE">La unidad de medida predeterminada para tu tienda (ej.: "cm" para centímetros, "in" para pulgadas, etc).</target>
+        <note>Context:
+File: controllers/admin/AdminLocalizationController.php:113</note>
+      </trans-unit>
+      <trans-unit id="5aa30e77b6c3af8d4affb7b5162d60fb" approved="yes">
+        <source>The ISO 639-1 identifier for the language of the country where your web server is located (en, fr, sp, ru, pl, nl, etc.).</source>
+        <target xml:lang="es-PE">El identificador ISO 639-1 para el idioma del país en el que se encuentra tu servidor web (en, fr, sp, ru, pl, nl, etc.).</target>
+        <note>Context:
+File: controllers/admin/AdminLocalizationController.php:127</note>
+      </trans-unit>
+      <trans-unit id="31de2e2af2f6b180fe4f3969affff0de" approved="yes">
+        <source>The ISO 3166-1 alpha-2 identifier for the country/region where your web server is located, in lowercase (us, gb, fr, sp, ru, pl, nl, etc.).</source>
+        <target xml:lang="es-PE">El identificador ISO 3166-1 alpha-2 para el país / región donde se encuentra tu servidor web, en minúsculas (us, gb, fr, sp, ru, pl, nl, etc.).</target>
+        <note>Context:
+File: controllers/admin/AdminLocalizationController.php:135</note>
+      </trans-unit>
+      <trans-unit id="bb0fa2ec7b2d1fcfc14bf6587cc51a66" approved="yes">
+        <source>If set to yes then the localization pack will be downloaded from prestashop.com. Otherwise the local xml file found in the localization folder of your PrestaShop installation will be used.</source>
+        <target xml:lang="es-PE">Si se establece a "Sí", se descargará el paquete de localización desde prestashop.com. De lo contrario, se utilizará el archivo xml local que se encuentra en la carpeta "localization" de la instalación de PrestaShop.</target>
+        <note>Context:
+File: controllers/admin/AdminLocalizationController.php:342</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="controllers/admin/AdminZonesController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+    </body>
+  </file>
+  <file original="controllers/admin/AdminTaxRulesGroupController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      <trans-unit id="7475ec0d41372a307c497acb7eeea8c4" approved="yes">
+        <source>No Tax</source>
+        <target xml:lang="es-PE">Sin impuestos</target>
+        <note>Context:
+File: controllers/admin/AdminTaxRulesGroupController.php:331</note>
+      </trans-unit>
+      <trans-unit id="7a3ded393734410a3d3514e10b672c92" approved="yes">
+        <source>(Total tax: 9%)</source>
+        <target xml:lang="es-PE">(Total impuesto: 9%)</target>
+        <note>Context:
+File: controllers/admin/AdminTaxRulesGroupController.php:334</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="controllers/admin/AdminLanguagesController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      <trans-unit id="cb832fdb1310ad1cb4b36705e3e043d2" approved="yes">
+        <source>Short date format (e.g., Y-m-d).</source>
+        <target xml:lang="es-PE">Formato corto de fecha (ej: A-m-d).</target>
+        <note>Context:
+File: controllers/admin/AdminLanguagesController.php:173</note>
+      </trans-unit>
+      <trans-unit id="11fb95583b7d678407bb64582a2ca3c6" approved="yes">
+        <source>Full date format (e.g., Y-m-d H:i:s).</source>
+        <target xml:lang="es-PE">Formato de fecha completo (ej: A-m-d H:m:s).</target>
+        <note>Context:
+File: controllers/admin/AdminLanguagesController.php:182</note>
+      </trans-unit>
+      <trans-unit id="e63a2fc0fc5da5af27fbf5c515beb044" approved="yes">
+        <source>Image is displayed when "no picture is found".</source>
+        <target xml:lang="es-PE">La imagen aparece cuando no se encuentra ninguna imagen "sin imagen".</target>
+        <note>Context:
+File: controllers/admin/AdminLanguagesController.php:197</note>
+      </trans-unit>
+      <trans-unit id="6f570144d5f5ca1404b40cab00a9fa3f" approved="yes">
+        <source>Enable if this language is read from right to left.</source>
+        <target xml:lang="es-PE">Activar si este idioma se lee de derecha a izquierda.</target>
+        <note>Context:
+File: controllers/admin/AdminLanguagesController.php:218</note>
+      </trans-unit>
+      <trans-unit id="6235bd7718134ee703c36fb7d3c78e69" approved="yes">
+        <source>(Experimental: your theme must be compliant with RTL languages).</source>
+        <target xml:lang="es-PE">(Experimental: el tema debe ser compatible con los idiomas RTL).</target>
+        <note>Context:
+File: controllers/admin/AdminLanguagesController.php:219</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="controllers/admin/AdminStatesController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      <trans-unit id="15c5d5dd58a9e70b8b86a7447dd00f70" approved="yes">
+        <source>Geographical region where this state is located.</source>
+        <target xml:lang="es-PE">Zona geográfica donde se encuentra la provincia.</target>
+        <note>Context:
+File: controllers/admin/AdminStatesController.php:184</note>
+      </trans-unit>
+      <trans-unit id="ec92dbe75bbcc2fbf4cad6302df97c19" approved="yes">
+        <source>Used for shipping</source>
+        <target xml:lang="es-PE">Este campo es usado para los envíos</target>
+        <note>Context:
+File: controllers/admin/AdminStatesController.php:185</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="controllers/admin/AdminTaxesController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      <trans-unit id="9441798e99bc6547fc74a158dbf119d6" approved="yes">
+        <source>Format: XX.XX or XX.XXX (e.g. 19.60 or 13.925)</source>
+        <target xml:lang="es-PE">Formato: XX.XX o XX.XXX (ej.: 19.60 o 13.925)</target>
+        <note>Context:
+File: controllers/admin/AdminTaxesController.php:211</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="controllers/admin/AdminGeolocationController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+    </body>
+  </file>
+  <file original="controllers/admin/AdminCurrenciesController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+    </body>
+  </file>
+  <file original="controllers/admin/AdminCountriesController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      <trans-unit id="a2ddbdfb29a0708bd711601f9277435c" approved="yes">
+        <source>Display this country to your customers (the selected country will always be displayed in the Back Office).</source>
+        <target xml:lang="es-PE">Mostrar este país a tus clientes (el país seleccionado siempre se mostrará en el Back Office).</target>
+        <note>Context:
+File: controllers/admin/AdminCountriesController.php:300</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="src/PrestaShopBundle/Translation/Api/InternationalApi.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="admin-dev/themes/default/template/controllers/languages/helpers/form/form.tpl" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="admin-dev/themes/default/template/controllers/countries/helpers/form/form.tpl" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="admin-dev/themes/default/template/controllers/translations/helpers/view/translation_modules.tpl" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+      
+    </body>
+  </file>
+  <file original="admin-dev/themes/default/template/controllers/translations/helpers/view/translation_mails.tpl" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      <trans-unit id="9b4ca9541e2c3e7215a5fac1f4cecd2f" approved="yes">
+        <source>Feature: [1]%1%[/1] ([1]%2%[/1] values)</source>
+        <target xml:lang="es-PE">Característica: [1]%1%[/1] ([1]%2%[/1] valores)</target>
+        <note>Context:
+File: admin-dev/themes/default/template/controllers/translations/helpers/view/translation_mails.tpl:75</note>
+      </trans-unit>
+      <trans-unit id="031775df42ef41141d4b4c7d4db89d65" approved="yes">
+        <source>The numbers enable you to reorder the variables when necessary.</source>
+        <target xml:lang="es-PE">Los números permiten reordenar las variables cuando sea necesario.</target>
+        <note>Context:
+File: admin-dev/themes/default/template/controllers/translations/helpers/view/translation_mails.tpl:75</note>
+      </trans-unit>
+      <trans-unit id="f324bbd9de83d61ccb5f7d5593aec5b3" approved="yes">
+        <source>You MUST use this syntax in your translations. Here are several examples:</source>
+        <target xml:lang="es-PE">Debes usar esta sintaxis en tus traducciones. He aquí varios ejemplos:</target>
+        <note>Context:
+File: admin-dev/themes/default/template/controllers/translations/helpers/view/translation_mails.tpl:70</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="admin-dev/themes/default/template/controllers/translations/helpers/view/translation_errors.tpl" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+    </body>
+  </file>
+  <file original="admin-dev/themes/default/template/controllers/translations/helpers/view/main.tpl" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      <trans-unit id="a577e13cac9ee85d6f298e0a8deffeee" approved="yes">
+        <source>Export data from one language to a file (language pack).</source>
+        <target xml:lang="es-PE">Exporte los mensajes de un idioma a un archivo (paquete de idioma).</target>
+        <note>Context:
+File: admin-dev/themes/default/template/controllers/translations/helpers/view/main.tpl:329</note>
+      </trans-unit>
+      <trans-unit id="234350fd7a2ea83720f91f40eb2985a9" approved="yes">
+        <source>Select which theme you would like to export your translations to.</source>
+        <target xml:lang="es-PE">Selecciona el tema del que quieres exportar tus traducciones.</target>
+        <note>Context:
+File: admin-dev/themes/default/template/controllers/translations/helpers/view/main.tpl:330</note>
+      </trans-unit>
+      <trans-unit id="d4e007a94451a69f593c3ce0e06e08f2" approved="yes">
+        <source>Copies data from one language to another.</source>
+        <target xml:lang="es-PE">Copia los datos de un idioma a otro.</target>
+        <note>Context:
+File: admin-dev/themes/default/template/controllers/translations/helpers/view/main.tpl:364</note>
+      </trans-unit>
+      <trans-unit id="8a6815aee1e25633b568be3153f4e779" approved="yes">
+        <source>If necessary [1][2] you must first create a new language[/1].</source>
+        <target xml:lang="es-PE">Si es necesario, [1][2]crea primero un nuevo idioma[/1].</target>
+        <note>Context:
+File: admin-dev/themes/default/template/controllers/translations/helpers/view/main.tpl:366</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

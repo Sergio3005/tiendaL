@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="controllers/admin/AdminLocalizationController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="controllers/admin/AdminCountriesController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="controllers/admin/AdminStatesController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+    </body>
+  </file>
+  <file original="controllers/admin/AdminZonesController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="controllers/admin/AdminShopController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="controllers/admin/AdminTaxRulesGroupController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="admin-dev/themes/default/template/controllers/tax_rules/helpers/list/list_content.tpl" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="controllers/admin/AdminLanguagesController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="admin-dev/themes/default/template/controllers/countries/helpers/list/list_footer.tpl" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="controllers/admin/AdminTaxesController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="controllers/admin/AdminGeolocationController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="controllers/admin/AdminCurrenciesController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      <trans-unit id="8394539f7cc6a58a1b71c2465d84644d" approved="yes">
+        <source>Live exchange Rate for %shop_name%</source>
+        <target xml:lang="es-PE">Tasa de cambio actual para %shop_name%</target>
+        <note>Context:
+File: controllers/admin/AdminCurrenciesController.php:326</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="controllers/admin/AdminTranslationsController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="admin-dev/themes/default/template/controllers/translations/helpers/view/translation_mails.tpl" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+    </body>
+  </file>
+  <file original="src/PrestaShopBundle/Twig/TranslationsExtension.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="src/PrestaShopBundle/Translation/Api/InternationalApi.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+      
+    </body>
+  </file>
+  <file original="admin-dev/themes/default/template/controllers/countries/helpers/form/form.tpl" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="admin-dev/themes/default/template/controllers/translations/helpers/view/translation_errors.tpl" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+    </body>
+  </file>
+  <file original="admin-dev/themes/default/template/controllers/translations/helpers/view/translation_modules.tpl" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+      
+    </body>
+  </file>
+  <file original="admin-dev/themes/default/template/controllers/translations/helpers/view/translation_form.tpl" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="admin-dev/themes/default/template/controllers/translations/helpers/view/main.tpl" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="admin-dev/themes/default/template/controllers/currencies/conversion_rate.tpl" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="admin-dev/themes/default/template/controllers/currencies/status.tpl" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+    </body>
+  </file>
+</xliff>

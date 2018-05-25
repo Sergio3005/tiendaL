@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="controllers/admin/AdminThemesController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      <trans-unit id="1a4e6f83162563ba06213015f4f503ed" approved="yes">
+        <source>Be careful! Please check your theme in an RTL language before generating the RTL stylesheet: your theme could be already adapted to RTL.\nOnce you click on "Adapt to RTL", any RTL-specific file that you might have added to your theme might be deleted by the created stylesheet.</source>
+        <target xml:lang="es-PE">¡Ten cuidado! Por favor, comprueba el tema en un idioma RTL antes de generar la hoja de estilo RTL: el tema ya podría estar adaptado a RTL.\nUna vez que hagas clic en "Adaptar a RTL", cualquier archivo específico RTL que hayas añadido al tema, podría ser eliminado por la hoja de estilo creada.</target>
+        <note>Context:
+File: controllers/admin/AdminThemesController.php:556</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="controllers/admin/AdminCmsController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="controllers/admin/AdminImagesController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="controllers/admin/AdminCmsContentController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      <trans-unit id="aa6f77f824eff8e896510f1bbaf9f8e5" approved="yes">
+        <source>Add new page</source>
+        <target xml:lang="es-PE">Añadir nueva página</target>
+        <note>Context:
+File: controllers/admin/AdminCmsContentController.php:113</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="controllers/admin/AdminModulesPositionsController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="admin-dev/themes/default/template/controllers/modules_positions/form.tpl" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="admin-dev/themes/default/template/controllers/images/content.tpl" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="classes/controller/FrontController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="controllers/admin/AdminThemesController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      <trans-unit id="4a9fdf95b29176bd9260016655a80852" approved="yes">
+        <source>Your RTL stylesheets has been generated successfully</source>
+        <target xml:lang="es-PE">Las hojas de estilo RTL han sido generadas correctamente</target>
+        <note>Context:
+File: controllers/admin/AdminThemesController.php:334</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="controllers/admin/AdminCmsCategoriesController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="controllers/admin/AdminCmsController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="controllers/admin/AdminImagesController.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      <trans-unit id="ffddcc65274efa9b4c624b34289c922c" approved="yes">
+        <source>Duplicate images were found when moving the product images. This is likely caused by unused demonstration images. Please make sure that the folder %folder% only contains demonstration images, and then delete it.</source>
+        <target xml:lang="es-PE">Se encontraron imágenes duplicadas al mover las imágenes del producto. Esto probablemente es causado por imágenes de demostración no utilizadas. Por favor, asegúrate de que la carpeta %folder% sólo contiene imágenes de demostración y, a continuación, elimínala.</target>
+        <note>Context:
+File: controllers/admin/AdminImagesController.php:338</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="src/Core/Shop/LogoUploader.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="src/Core/Addon/Theme/ThemeValidator.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+    </body>
+  </file>
+  <file original="src/Core/Addon/Theme/ThemeManager.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="src/PrestaShopBundle/Command/ExportThemeCommand.php" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="admin-dev/themes/default/template/controllers/modules_positions/list_modules.tpl" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="admin-dev/themes/default/template/controllers/cms/helpers/form/form.tpl" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="admin-dev/themes/default/template/controllers/images/content.tpl" source-language="en" target-language="es-PE" datatype="plaintext">
+    <body>
+      
+      
+      
+    </body>
+  </file>
+</xliff>
